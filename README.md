@@ -1,2 +1,2 @@
-# Microsoft-Activation
-Not my project but thought id make it easier
+# Microsoft Activation
+The command and cmd is not mine I am just repacking it so its easier for casuals
